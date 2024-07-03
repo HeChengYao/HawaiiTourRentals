@@ -62,7 +62,7 @@ header nav ul li a:hover {
 main section.backImage {
   min-height: 90vh;
   width: 100%;
-  background-image: url(/htdocs/鴻文老師/HawaiiTourRentals/Pictures/pexels-photo-416676.jpeg);
+  background-image: url(pexels-photo-416676.jpeg);
   background-size: cover;
   background-position: center;
   position: relative;
